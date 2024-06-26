@@ -86,7 +86,7 @@ Hello! I'm [Your Name], a passionate software developer with a keen interest in 
 <!-- BLOG-POST-LIST:START -->
 - [What are Cryptocurrencies]([https://your-blog-link-1](https://steemit.com/hive-102306/@dulhara19/crypto-world-part01-or-what-are-cryptocurrencies))
 - [MY HABIT is A DIGITAL READING]([https://your-blog-link-2](https://steemit.com/hive-102306/@dulhara19/my-habit-is-a-digital-reading))
-- [Title of Blog Post 3](https://your-blog-link-3)
+- 
 <!-- BLOG-POST-LIST:END -->
 
 ---
