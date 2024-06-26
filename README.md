@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 Hello! I'm [Your Name], a passionate software developer with a keen interest in Java, web development, and creating innovative solutions to challenging problems. I'm always learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
-- 🔭 I’m currently working on: [Java-based web application]
-- 🌱 I’m currently learning: [Technologies or Skills]
-- 👯 I’m looking to collaborate on: [Projects or Areas of Interest]
-- 🤔 I’m looking for help with: [Specific Issues or Questions]
-- 💬 Ask me about: [Topics You Are Knowledgeable About]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on: [Java-based web applications]
+- 🌱 I’m currently learning: [AI,ML,Java]
+- 👯 I’m looking to collaborate on: [AI and IOT]
+- 🤔 I’m looking for help with: []
+- 💬 Ask me about: [anything]
+- 📫 How to reach me: [kldkaluthotage@students.nsbm.ac.lk]
+- ⚡ Fun fact: [coding =!(fun)]
 
 ## 🛠️ Skills and Technologies
 
@@ -84,8 +84,8 @@ Hello! I'm [Your Name], a passionate software developer with a keen interest in 
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post 1](https://your-blog-link-1)
-- [Title of Blog Post 2](https://your-blog-link-2)
+- [What are Cryptocurrencies]([https://your-blog-link-1](https://steemit.com/hive-102306/@dulhara19/crypto-world-part01-or-what-are-cryptocurrencies))
+- [MY HABIT is A DIGITAL READING]([https://your-blog-link-2](https://steemit.com/hive-102306/@dulhara19/my-habit-is-a-digital-reading))
 - [Title of Blog Post 3](https://your-blog-link-3)
 <!-- BLOG-POST-LIST:END -->
 
