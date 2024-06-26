@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Hello! I'm [Your Name], a passionate software developer with a keen interest in Java, web development, and creating innovative solutions to challenging problems. I'm always learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
-- 🔭 I’m currently working on: [Your Current Project]
+- 🔭 I’m currently working on: [Java-based web application]
 - 🌱 I’m currently learning: [Technologies or Skills]
 - 👯 I’m looking to collaborate on: [Projects or Areas of Interest]
 - 🤔 I’m looking for help with: [Specific Issues or Questions]
@@ -43,17 +43,17 @@ Hello! I'm [Your Name], a passionate software developer with a keen interest in 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulhara19&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulhara19&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dulhara19&theme=radical)
 
 ## 📂 Featured Projects
 
-### [Project 1 Name](https://github.com/your-github-username/project-1-repo)
+### [Project 1 Name](https://github.com/dulhara19/Java_WebApp-template-)
 ![Project 1 Image](https://your-project-image-link-here)
 **Description:** A brief description of your project, its purpose, and the technologies used.
 
@@ -79,10 +79,6 @@ Hello! I'm [Your Name], a passionate software developer with a keen interest in 
 - [Title of Blog Post 2](https://your-blog-link-2)
 - [Title of Blog Post 3](https://your-blog-link-3)
 <!-- BLOG-POST-LIST:END -->
-
-## 📜 License
-
-This repository and its contents are licensed under the [MIT License](LICENSE).
 
 ---
 *Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.* 🚀
