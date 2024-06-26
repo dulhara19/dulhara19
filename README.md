@@ -44,12 +44,16 @@ Hello! I'm [Your Name], a passionate software developer with a keen interest in 
 ## 📈 GitHub Stats
 <table>
   <tr><td>
+    
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulhara19&show_icons=true&theme=radical)
+
 </td> 
 <td>
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulhara19&layout=compact&theme=radical)
-</td>    
-</tr>
+
+  </td>    
+  </tr>
 </table>
 ## 🏆 GitHub Trophies
 
