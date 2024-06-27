@@ -1,26 +1,13 @@
 ## Hi there 👋
 
-<!--
-**dulhara19/dulhara19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Welcome to My GitHub Profile! 👋
 
 ![Header](https://your-image-link-here)
 
 ## 🚀 About Me
 
-Hello! I'm [Your Name], a passionate software developer with a keen interest in Java, web development, and creating innovative solutions to challenging problems. I'm always learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
+Hello! I'm Dulhara, a passionate software developer with a keen interest in Java, web development, and creating innovative solutions to challenging problems. I'm always learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
 
 - 🔭 I’m currently working on: [Java-based web applications]
 - 🌱 I’m currently learning: [AI,ML,Java]
