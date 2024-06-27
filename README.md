@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-
 # Welcome to My GitHub Profile! 👋
 
 ![Header](https://your-image-link-here)
-
+ 
 ## 🚀 About Me
 
 Hello! I'm Dulhara, a passionate software developer with a keen interest in Java, web development, and creating innovative solutions to challenging problems. I'm always learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
