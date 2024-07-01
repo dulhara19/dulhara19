@@ -48,17 +48,9 @@ Hello! I'm Dulhara, a passionate software developer with a keen interest in Java
 
 ## 📂 Featured Projects
 
-### [Project 1 Name](https://github.com/dulhara19/Java_WebApp-template-)
+### [java web](https://github.com/dulhara19/Java_WebApp-template-)
 ![Project 1 Image](https://your-project-image-link-here)
-**Description:** A brief description of your project, its purpose, and the technologies used.
-
-### [Project 2 Name](https://github.com/your-github-username/project-2-repo)
-![Project 2 Image](https://your-project-image-link-here)
-**Description:** A brief description of your project, its purpose, and the technologies used.
-
-### [Project 3 Name](https://github.com/your-github-username/project-3-repo)
-![Project 3 Image](https://your-project-image-link-here)
-**Description:** A brief description of your project, its purpose, and the technologies used.
+**Description:** a web page for a gift shot based on Java technology.
 
 ## 🤝 Connect with Me
 
