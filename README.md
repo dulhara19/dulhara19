@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-# Welcome to My GitHub Profile! 👋
-
-![Header](https://your-image-link-here)
+# Welcome to My GitHub Profile! 
  
 ## 🚀 About Me
 
@@ -10,8 +8,7 @@ Hello! I'm Dulhara, a passionate software developer with a keen interest in Java
 
 - 🔭 I’m currently working on: [Java-based web applications]
 - 🌱 I’m currently learning: [AI,ML,Java]
-- 👯 I’m looking to collaborate on: [AI and IOT]
-- 🤔 I’m looking for help with: []
+- 👯 I’m looking to collaborate on: [AI and ML and mathematics + stat related projects]
 - 💬 Ask me about: [anything]
 - 📫 How to reach me: [kldkaluthotage@students.nsbm.ac.lk]
 - ⚡ Fun fact: [coding =!(fun)]
@@ -63,9 +60,8 @@ Hello! I'm Dulhara, a passionate software developer with a keen interest in Java
 
 <!-- BLOG-POST-LIST:START -->
 - [What are Cryptocurrencies]([https://your-blog-link-1](https://steemit.com/hive-102306/@dulhara19/crypto-world-part01-or-what-are-cryptocurrencies))
-- [MY HABIT is A DIGITAL READING]([https://your-blog-link-2](https://steemit.com/hive-102306/@dulhara19/my-habit-is-a-digital-reading))
-- 
+- [MY HABIT is A DIGITAL READING]([https://your-blog-link-2](https://steemit.com/hive-102306/@dulhara19/my-habit-is-a-digital-reading)) 
 <!-- BLOG-POST-LIST:END -->
 
 ---
-*Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.* 🚀
+*Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.* 
