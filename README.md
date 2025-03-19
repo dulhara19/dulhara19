@@ -9,9 +9,9 @@ Hello! I'm Dulhara, a passionate software developer with a keen interest in Java
 - 🔭 I’m currently working on: ML + Data Science Projects
 - 🌱 I’m currently learning: AI,ML,Java
 - 👯 I’m looking to collaborate on:[AI and ML and mathematics + stat related projects
-- 💬 Ask me about: [anything]
-- 📫 How to reach me: [kldkaluthotage@students.nsbm.ac.lk]
-- ⚡ Fun fact: [coding =!(fun)]
+- 💬 Ask me about: anything, ima tutor 
+- 📫 How to reach me: kldkaluthotage@students.nsbm.ac.lk
+- ⚡ Fun fact: I love (Engineering + Psychology)
 
 ## 🛠️ Skills and Technologies
 
