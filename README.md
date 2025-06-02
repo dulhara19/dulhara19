@@ -11,7 +11,6 @@ Hello! I'm Dulhara, a passionate software developer with a keen interest in Java
 - 👯 I’m looking to collaborate on:[AI and ML and mathematics + stat related projects
 - 💬 Ask me about: anything, ima tutor 
 - 📫 How to reach me: kldkaluthotage@students.nsbm.ac.lk
-- ⚡ Fun fact: I love (Engineering + Psychology)
 
 ## 🛠️ Skills and Technologies
 
@@ -43,11 +42,6 @@ Hello! I'm Dulhara, a passionate software developer with a keen interest in Java
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dulhara19&theme=radical)
 
-## 📂 Featured Projects
-
-### [java web](https://github.com/dulhara19/Java_WebApp-template-)
-![Project 1 Image](https://your-project-image-link-here)
-**Description:** a web page for a gift shot based on Java technology.
 
 ## 🤝 Connect with Me
 
