@@ -53,8 +53,8 @@ Hello! I'm Dulhara, a passionate software developer with a keen interest in Java
 ## ✍️ Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What are Cryptocurrencies]([https://your-blog-link-1](https://steemit.com/hive-102306/@dulhara19/crypto-world-part01-or-what-are-cryptocurrencies))
-- [MY HABIT is A DIGITAL READING]([https://your-blog-link-2](https://steemit.com/hive-102306/@dulhara19/my-habit-is-a-digital-reading)) 
+- [What are Cryptocurrencies]([https://your-blog-link-1](https://steemit.com/hive-102306/@dulhara19/crypto-world-part01-or-what-are-cryptocurrencies)
+- [MY HABIT is A DIGITAL READING]([https://your-blog-link-2](https://steemit.com/hive-102306/@dulhara19/my-habit-is-a-digital-reading)
 <!-- BLOG-POST-LIST:END -->
 
 ---
