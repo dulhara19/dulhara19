@@ -53,6 +53,18 @@ This is why my systems tend to be unusual. They are not assembled from standard 
   </tr>
 </table>
 
+<br/>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dulhara19&background=0D1117&border=E87040&stroke=E87040&ring=E87040&fire=C04800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E87040&sideLabels=E87040&dates=AAAAAA" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulhara19&bg_color=0D1117&color=E87040&line=C04800&point=E87040&area=true&area_color=E87040&hide_border=false&border_color=E87040&title_color=E87040" />
+</p>
+
 ---
 
 ## Writing
