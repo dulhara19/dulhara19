@@ -1,6 +1,12 @@
-# Dulhara
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E87040,50:C04800,100:8B2500&height=220&section=header&text=Dulhara&fontSize=90&fontColor=FFFFFF&fontFamily=Raleway&animation=fadeIn&desc=Building%20systems%20from%20first%20principles&descSize=18&descColor=FFFFFF&fontAlignY=40&descAlignY=58" />
+</p>
 
-Some people use tools to solve problems. I build the tools.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=18&duration=3500&pause=1000&color=E87040&center=true&vCenter=true&width=650&lines=Some+people+use+tools+to+solve+problems.+I+build+the+tools." />
+</p>
+
+<br/>
 
 I design and build intelligent systems for international clients across industries — systems where the problem is harder than the available solutions and the only path forward is to think from first principles. Outside of client work, I mentor undergraduates in building innovative platforms with real societal impact, helping the next generation of engineers move from idea to working system.
 
@@ -36,13 +42,13 @@ This is why my systems tend to be unusual. They are not assembled from standard 
 
 ## Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulhara19&layout=compact&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulhara19&layout=compact&bg_color=0D1117&title_color=E87040&text_color=FFFFFF&border_color=E87040&hide_border=false" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=dulhara19&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dulhara19&show_icons=true&bg_color=0D1117&title_color=E87040&text_color=FFFFFF&icon_color=E87040&border_color=E87040&hide_border=false" />
     </td>
   </tr>
 </table>
@@ -56,6 +62,11 @@ This is why my systems tend to be unusual. They are not assembled from standard 
 
 ---
 
-*If the problem is hard enough, I'm interested.*
+<p align="center">
+  <i>If the problem is hard enough, I'm interested.</i><br/><br/>
+  <a href="mailto:pasindikaluthotage16@gmail.com">pasindikaluthotage16@gmail.com</a>
+</p>
 
-pasindikaluthotage16@gmail.com
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B2500,50:C04800,100:E87040&height=120&section=footer" />
+</p>
