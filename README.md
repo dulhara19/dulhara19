@@ -62,7 +62,7 @@ This is why my systems tend to be unusual. They are not assembled from standard 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulhara19&bg_color=0D1117&color=E87040&line=C04800&point=E87040&area=true&area_color=E87040&hide_border=false&border_color=E87040&title_color=E87040" />
+  <img src="https://ghchart.rshah.org/dulhara19" alt="Dulhara's Contribution Graph" />
 </p>
 
 ---
