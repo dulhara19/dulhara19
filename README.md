@@ -64,7 +64,7 @@ This is why my systems tend to be unusual. They are not assembled from standard 
 
 <p align="center">
   <i>If the problem is hard enough, I'm interested.</i><br/><br/>
-  <a href="mailto:pasindikaluthotage16@gmail.com">pasindikaluthotage16@gmail.com</a>
+  <a href="mailto:wkldulhara@gmail.com">wkldulhara@gmail.com</a>
 </p>
 
 <p align="center">
