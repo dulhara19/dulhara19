@@ -59,12 +59,6 @@ This is why my systems tend to be unusual. They are not assembled from standard 
   <img src="https://streak-stats.demolab.com?user=dulhara19&background=0D1117&border=E87040&stroke=E87040&ring=E87040&fire=C04800&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E87040&sideLabels=E87040&dates=AAAAAA" />
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/dulhara19" alt="Dulhara's Contribution Graph" />
-</p>
-
 ---
 
 ## Writing
