@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=18&duration=3500&pause=1000&color=E87040&center=true&vCenter=true&width=650&lines=Some+people+use+tools+to+solve+problems.+I+build+the+tools." />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=18&duration=3500&pause=1000&color=E87040&center=true&vCenter=true&width=650&lines=Some+are+born+to+lead.+Some+to+create.+I+was+born+to+solve." />
 </p>
 
 <br/>
